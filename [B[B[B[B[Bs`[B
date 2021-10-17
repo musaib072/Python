@@ -1,0 +1,13 @@
+[33mcommit c85d96686d39e544b1099fa3e5dba4ea0dfc9eba[m[33m ([m[1;36mHEAD -> [m[1;32mmaster[m[33m)[m
+Author: musaib_072 <jerryhoverd786@gmail.com>
+Date:   Sun Oct 17 15:29:31 2021 +0530
+
+    added binary search code
+
+[1mdiff --git a/Python b/Python[m
+[1mnew file mode 160000[m
+[1mindex 0000000..3ea5a13[m
+[1m--- /dev/null[m
+[1m+++ b/Python[m
+[36m@@ -0,0 +1 @@[m
+[32m+[m[32mSubproject commit 3ea5a13334f2d573167456c0c9ee4c90497c9466[m
